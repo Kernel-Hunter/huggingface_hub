@@ -11502,7 +11502,7 @@ class HfApi:
             WebhookInfo(
                 id="654bbbc16f2ec14d77f109cc",
                 url="https://webhook.site/a2176e82-5720-43ee-9e06-f91cb4c91548",
-                jon=None,
+                job=None,
                 watched=[WebhookWatchedItem(type="user", name="julien-c"), WebhookWatchedItem(type="org", name="HuggingFaceH4")],
                 domains=["repo", "discussion"],
                 secret="my-secret",

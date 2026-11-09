@@ -1698,7 +1698,7 @@ class InferenceClient:
         >>> from huggingface_hub import InferenceClient
         >>> client = InferenceClient()
         >>> client.summarization("The Eiffel tower...")
-        SummarizationOutput(generated_text="The Eiffel tower is one of the most famous landmarks in the world....")
+        SummarizationOutput(summary_text="The Eiffel tower is one of the most famous landmarks in the world....")
         ```
         """
         parameters = {
